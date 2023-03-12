@@ -30,3 +30,9 @@
     align-items: center;
     font-size: 2rem;
 }
+
+/*score number*/
+.result-score{
+    margin-left: .1rem;
+    font-size: 1rem;
+}
