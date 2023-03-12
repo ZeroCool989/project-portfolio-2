@@ -30,7 +30,18 @@ For Mobile devices:
 
 ![image](https://user-images.githubusercontent.com/75548207/224540065-639b518f-367a-4f66-aa98-202ac6ed64d0.png)
 
-HTML, CSS and JavaScript Validation
+**Features**
+A basic website for playing the game of rock-paper-scissors-lizard-spock consists of three main parts:
+
+1.Header and Logo: This section displays the game title logo and provides information about the rules of the game. It serves as an introduction to the game for the user.
+
+2. Game Selection: This section is where the player can choose which option they want to play - rock, paper, scissors, lizard, or spock. The options should be displayed as interactive buttons that the user can click to make their selection. This section is the main interactive part of the website.
+
+3. Results Section: Once the user has made their selection, this section displays the result of the game, such as who won or if it was a tie. Additionally, this section should also display the player's score against the computer. This section should include buttons or links to play the game again or return to the main menu.
+
+By having these three parts, the website should provide a basic and functional user experience for playing rock-paper-scissors-lizard-spock online.
+
+**HTML, CSS and JavaScript Validation**
 I validated  my HTML, CSS amd JS  code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
 HTML Validator:
@@ -46,5 +57,4 @@ JSHint JavaScript Validator
 
 no error  found just warnings
 
-
-Credits I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS and JavaScriptfiles.
+Credits I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS and JavaScript files.
