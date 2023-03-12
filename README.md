@@ -15,5 +15,8 @@ Scissors decapitates Lizard
 Lizard eats Paper
 Paper disproves Spock
 Spock vaporizes Rock
-**
-Responsivness**
+
+**Responsivness**
+
+![image](https://user-images.githubusercontent.com/75548207/224538410-ffbd6294-bafb-4a7d-99e2-7d014d397e4c.png)
+
