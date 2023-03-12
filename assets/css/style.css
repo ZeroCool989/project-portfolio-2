@@ -36,3 +36,13 @@
     margin-left: .1rem;
     font-size: 1rem;
 }
+
+/*Emphesize winner of a round*/
+.result-selection{
+    opacity: .5;
+
+}
+
+.result-selection.winner{
+    opacity: 1;
+}
