@@ -1,0 +1,21 @@
+*{
+    background-color: white;
+}
+
+.selections{
+    display:flex;
+    justify-content: center;
+}
+
+.selections{
+    margin-top: 20px;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 100ms;
+}
+
+.selections:hover{
+    transform:scale(1.2);
+}
