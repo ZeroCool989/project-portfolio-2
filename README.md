@@ -24,13 +24,14 @@ Lighthouse Lighthouse is a feature of Google Chrome developer tools and is used 
 
 For Desktop devices:
 
-image
+![image](https://user-images.githubusercontent.com/75548207/224539960-b3989424-da8d-4283-8bca-fbf80b092f60.png)
 
 For Mobile devices:
 
-image
+![image](https://user-images.githubusercontent.com/75548207/224540065-639b518f-367a-4f66-aa98-202ac6ed64d0.png)
 
-HTML and CSS Validation I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+HTML, CSS and JavaScript Validation
+I validated  my HTML, CSS amd JS  code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
 HTML Validator:
 ![image](https://user-images.githubusercontent.com/75548207/224539501-1b6aae5f-6329-4a06-aeec-0085aaca0c50.png)
@@ -45,6 +46,5 @@ JSHint JavaScript Validator
 
 no error  found just warnings
 
-Conclusion This one-page website provides a quick and easy way for users to learn about me and my skills. I hope you enjoy exploring it and learning more about me!
 
-Credits I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS files.
+Credits I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS and JavaScriptfiles.
