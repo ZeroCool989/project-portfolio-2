@@ -62,3 +62,17 @@
     font-size: 1.5rem;
 
 }
+
+/*Media Queries*/
+@media (max-width:500px) {
+    .header{
+        flex-wrap: wrap;
+    }
+    .selections{
+        flex-wrap: wrap;
+    }
+    .results{
+        flex-wrap: wrap;
+    }
+    
+}
