@@ -20,3 +20,31 @@ Spock vaporizes Rock
 
 ![image](https://user-images.githubusercontent.com/75548207/224538410-ffbd6294-bafb-4a7d-99e2-7d014d397e4c.png)
 
+Lighthouse Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. Peas see assessment below:
+
+For Desktop devices:
+
+image
+
+For Mobile devices:
+
+image
+
+HTML and CSS Validation I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+
+HTML Validator:
+![image](https://user-images.githubusercontent.com/75548207/224539501-1b6aae5f-6329-4a06-aeec-0085aaca0c50.png)
+There where 0 errors found.
+
+CSS Validator image
+![image](https://user-images.githubusercontent.com/75548207/224538824-646da509-eb86-4c19-897e-7b7dad857c96.png)
+No errors found
+
+JSHint JavaScript Validator
+![image](https://user-images.githubusercontent.com/75548207/224538740-af54f102-c2e5-47fb-8138-f11956c6b3cf.png)
+
+no error  found just warnings
+
+Conclusion This one-page website provides a quick and easy way for users to learn about me and my skills. I hope you enjoy exploring it and learning more about me!
+
+Credits I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS files.
