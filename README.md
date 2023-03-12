@@ -3,7 +3,7 @@
 This is a implementation of the classic Rock, Paper, Scissors, Spock, Lizard game.
 
 **Game Rules**
-The game is an extension of the classic game of Rock, Paper, Scissors, with the addition of two more options: Spock and Lizard. The game is played between two players, in which each player simultaneously chooses one of the five possible options: rock, paper, scissors, Spock, or lizard. The winner is determined by the following rules:
+The game is an extension of the classic game of Rock, Paper, Scissors, with the addition of two more options: Spock and Lizard. The game is played between the player and computer, in which  the player can choose one of the five possible options: rock, paper, scissors, Spock, or lizard. The winner is determined by the following rules:
 
 Rock crushes Scissors
 Scissors cuts Paper
@@ -35,9 +35,9 @@ A basic website for playing the game of rock-paper-scissors-lizard-spock consist
 
 1.Header and Logo: This section displays the game title logo and provides information about the rules of the game. It serves as an introduction to the game for the user.
 
-2. Game Selection: This section is where the player can choose which option they want to play - rock, paper, scissors, lizard, or spock. The options should be displayed as interactive buttons that the user can click to make their selection. This section is the main interactive part of the website.
+2. Game Selection: This section is where the player can choose which option they want to play - rock, paper, scissors, lizard, or spock. The options are displayed as interactive buttons that the user can click to make their selection. This section is the main interactive part of the website.
 
-3. Results Section: Once the user has made their selection, this section displays the result of the game, such as who won or if it was a tie. Additionally, this section should also display the player's score against the computer. This section should include buttons or links to play the game again or return to the main menu.
+3. Results Section: Once the user has made their selection, this section displays the result of the game, such as who won or if it was a tie. Additionally, this section  also display the player's score against the computer. 
 
 By having these three parts, the website should provide a basic and functional user experience for playing rock-paper-scissors-lizard-spock online.
 
