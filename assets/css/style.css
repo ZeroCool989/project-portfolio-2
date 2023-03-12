@@ -21,20 +21,22 @@
 }
 
 /*results score area*/
-.results{
-    margin-top: 1rem;
+.results {
+    margin-top: 30px;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     align-items: center;
     font-size: 2rem;
-}
+    font-family: 'Poppins';
+  }
 
 /*score number*/
 .result-score{
     margin-left: .1rem;
     font-size: 1rem;
+    
 }
 
 /*Emphasize winner of a round*/
@@ -45,4 +47,6 @@
 
 .result-selection.winner{
     opacity: 1;
+    font-size: 1.5rem;
+
 }

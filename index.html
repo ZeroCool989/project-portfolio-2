@@ -11,42 +11,37 @@
     <title>Rock, Paper, Scissors, Lizard, Spock Game</title>
 </head>
 <body>
-    <!--Possible selction buttons-->
+    <!--Possible selection buttons-->
     <div class="selections">
-        <button  class="selections" >
+        <button  class="selections" data-selection="paper">
             <img src="assets/images/paper.png" alt="paper-image">
         </button>
-        <button  class="selections" >
+        <button  class="selections" data-selection="rock" >
             <img src="assets/images/rock.png" alt="rock-image">
         </button>
-        <button  class="selections" >
+        <button  class="selections" data-selection="scissors">
             <img src="assets/images/scissors.png" alt="scissors-image">
         </button>
-        <button  class="selections" >
+        <button  class="selections" data-selection="lizard">
             <img src="assets/images/lizard.png" alt="lizard-image">
         </button>
-        <button  class="selections" >
+        <button  class="selections" data-selection="spock">
             <img src="assets/images/spock.png" alt="spock-image">
         </button>
     </div>
     <!--Results score area -->
     <div class="results">
-        <div>
+        <div>🧔
             You
-            <span class="result-score">0</span>
+            <span class="result-score" data-your-score>0</span>
         </div>
-        <div>
+        <div data-final-column>🖥️
             Computer
-            <span class="result-score">0</span>
+            <span class="result-score" data-computer-score>0</span>
         </div>
         <div class="result-selection winner">
-            <img src="assets/images/paper.png" alt="paper-image">
-        </div>
-        <div class="result-selection">
-            <img src="assets/images/rock.png" alt="rock-image">
         </div>
     </div>
-    
     <script src="assets/js/script.js"></script>
 </body>
 </html>
